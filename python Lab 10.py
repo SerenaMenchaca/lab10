@@ -24,7 +24,7 @@ drawpad.grid(row=0, column=1)
 
 # Insert your code here to draw the house!
 
-# 70pt:roof and house
+# 70pt:roof and house                               100pt: red house
 rectangle = drawpad.create_rectangle(200,600,600,200, fill='red')
 line = drawpad.create_line(200,200,400,100)
 line = drawpad.create_line(600,200,400,100)
